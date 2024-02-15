@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "system_error": "c",
+        "ot_coap_server.h": "c",
+        "openthread_server.h": "c",
+        "openthread.h": "c",
+        "string_view": "c"
+    }
+}
